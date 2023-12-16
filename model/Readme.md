@@ -1,6 +1,6 @@
 # Model 저장소
 
-## 1. Logistic Classification
+## 1. Logistic Regression
 
 ## 2. Naïve Bayse
 
